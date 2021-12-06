@@ -1,3 +1,3 @@
 # CSS100_Financial-Stock-Project
 
-Most the code are from Steven. This is for personal changes to the ipynb
+Our project studies how the certain stocks changes as the market index changes. More details in the ipynb and final report
